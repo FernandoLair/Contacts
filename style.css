@@ -96,7 +96,7 @@ img.avatar {
     width: 100px;
     height: 100px;
     padding: 3.7px;
-    border: #633bbc solid 4px;
+    border: #080166 solid 4px;
 }
 
 
@@ -132,7 +132,7 @@ ul li a {
     align-items: center;
     justify-content: center;
     height: 53px;
-    background: #8650ff;
+    background: #ff9050;
     color: #ffffff;
     text-transform: uppercase;
     font-size: 14px;
